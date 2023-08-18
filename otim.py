@@ -131,6 +131,7 @@ def nova_conta(agencia, numero_conta, usuarios):
 
     print("\n===> Usuário não encontrado")
 
+
 def listar_contas(contas):
     for conta in contas:
         linha = f"""\
