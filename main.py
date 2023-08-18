@@ -1,4 +1,3 @@
-
 def main():
 
     saldo = 0
@@ -51,17 +50,14 @@ def main():
         if opcao == "q":
             break
 
-
+main()
     
 
-
-                    
+    
+               
         
 
 
 
 
 
-
-if __name__ == '__main__':
-    main() 
